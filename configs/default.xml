@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <configuration>
-	<feature name="Ejercicio5MicrosoftOffice"/>
-	<feature name="Base"/>
+	<feature automatic="selected" name="MicrosoftOffice"/>
+	<feature manual="selected" name="Word"/>
+	<feature name="Excel"/>
+	<feature name="PowerPoint"/>
+	<feature name="OneNote"/>
+	<feature name="Outlook"/>
+	<feature name="Publisher"/>
+	<feature name="Access"/>
 </configuration>
